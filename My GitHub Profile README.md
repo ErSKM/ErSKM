@@ -1,4 +1,4 @@
-# Er-Skm-Analystar
+# ErSKM
 
  Hi, I'm Salahuddin K M 👋
 
