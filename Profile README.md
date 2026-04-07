@@ -76,21 +76,9 @@ monthly revenue with **Train R² = 0.92**.
 
 | Certificate | Issuer | Verify |
 |---|---|---|
-| Google Data Analytics Professional Certificate | Google / Coursera | [![Verify](https://img.shields.io/badge/Verify-Coursera-0056D2?style=flat-square&logo=coursera)](https://coursera.org/verify/:https://www.coursera.org/account/accomplishments/specialization/OV549Y6GTJYH) | Data Analytics Virtual Job Simulation | Deloitte Australia / Forage | [![Verify](https://img.shields.io/badge/Verify-Forage-00A651?style=flat-square)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_HMHZoSDPLmktTjm6C_1761851429615_completion_certificate.pdf) | Data Learning Track by Google Cloud, powered by Hack2skill | Google Cloud / Hack2skill | [![Verify](https://img.shields.io/badge/Verify-Hack2skill-00A651?style=flat-square)]([https://certificate.hack2skill.com/user/academy2data/2025H2S10GENAI-DA300149]) |
-
-
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Salahuddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErSKM&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErSKM&layout=compact&theme=default&hide_border=true)
-
-</div>
+| Google Data Analytics Professional Certificate | Google / Coursera | [![Verify](https://img.shields.io/badge/Verify-Coursera-0056D2?style=flat-square&logo=coursera)](https://coursera.org/verify/:https://www.coursera.org/account/accomplishments/specialization/OV549Y6GTJYH) |
+| Data Analytics Virtual Job Simulation | Deloitte Australia / Forage | [![Verify](https://img.shields.io/badge/Verify-Forage-00A651?style=flat-square)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_HMHZoSDPLmktTjm6C_1761851429615_completion_certificate.pdf) |
+| Data Learning Track by Google Cloud, powered by Hack2skill | Google Cloud / Hack2skill | [![Verify](https://img.shields.io/badge/Verify-Hack2skill-00A651?style=flat-square)]([https://certificate.hack2skill.com/user/academy2data/2025H2S10GENAI-DA300149]) |
 
 ---
 
