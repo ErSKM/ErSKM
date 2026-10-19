@@ -11,10 +11,10 @@ I turn operational and transaction data into clear analysis, reporting, and busi
 | Project | Tools | What it demonstrates |
 |---|---|---|
 | [Retail Sales Analysis](https://github.com/ErSKM/retail-sales-analysis) | Excel · MySQL · Power BI | A multi-tool workflow for retail sales reporting and dashboarding. |
-| [World Layoffs SQL Analysis](https://github.com/ErSKM/world-layoffs-sql) | MySQL | Data cleaning, business queries, aggregations, CTEs, and window functions. |
 | [Hiring Process Analytics](https://github.com/ErSKM/hiring-process-analytics-excel) | Excel · Power Query | Hiring funnel reporting, salary analysis, outlier review, and a dashboard. |
-| [Olist E-Commerce Analysis](https://github.com/ErSKM/olist-ecommerce-analysis) | Python · SQLite · SQL | Customer, product, delivery, and revenue analysis across Brazilian e-commerce data. |
 | [E-Commerce Sales and RFM](https://github.com/ErSKM/ecommerce-sales-analysis) | Python · Pandas | Transaction analysis, customer metrics, and RFM segmentation. |
+| [World Layoffs SQL Analysis](https://github.com/ErSKM/world-layoffs-sql) | MySQL | Data cleaning, business queries, aggregations, CTEs, and window functions. |
+| [Olist E-Commerce Analysis](https://github.com/ErSKM/olist-ecommerce-analysis) | Python · SQLite · SQL | Customer, product, delivery, and revenue analysis across Brazilian e-commerce data. |
 
 ## Tools and methods
 
