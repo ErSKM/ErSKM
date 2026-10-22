@@ -1,8 +1,8 @@
 # Salahuddin K M
 
-**Data Analyst | Retail & E-Commerce Analytics | SQL · Python · Excel · Power BI · Tableau**
+**Data Analyst | Retail, E-Commerce & Supply Chain Analytics | SQL · Python · Excel · Power BI · Tableau**
 
-I turn operational and transaction data into clear analysis, reporting, and business recommendations. From 2023–2025, I worked in Sales Operations analysis at Zoya Business House in Oman, supporting business KPIs and decision-making. My project portfolio builds on that experience with retail sales, e-commerce customer behavior, and marketplace operations.
+I turn operational and transaction data into clear analysis, reporting, and business recommendations. From 2023–2025, I worked in Sales Operations analysis at Zoya Business House in Oman, supporting business KPIs and decision-making. My projects explore retail performance, supply-chain delivery reliability and profitability, and e-commerce customer behavior.
 
 [Portfolio](https://erskm.github.io) · [LinkedIn](https://www.linkedin.com/in/salahuddinkm) · [HackerRank](https://www.hackerrank.com/profile/Salahuddin_K_M) · [Email](mailto:salahuddinkm.skm@gmail.com)
 
@@ -10,6 +10,7 @@ I turn operational and transaction data into clear analysis, reporting, and busi
 
 | Project | Tools | Decision area |
 |---|---|---|
+| [Supply Chain Delivery & Profitability Analysis](https://github.com/ErSKM/supply-chain-delivery-profitability-analysis) | MySQL · Power BI | Delivery reliability by shipping mode, order-level analysis, sales, and reported profitability |
 | [Retail Sales Analysis](https://github.com/ErSKM/retail-sales-analysis) | Excel · MySQL · Power BI | Sales, gross profit, region, category, product, and monthly performance |
 | [E-Commerce Sales and Customer Analysis](https://github.com/ErSKM/ecommerce-sales-analysis) | Python · Pandas | Sales concentration, product performance, customer metrics, and rule-based RFM segments |
 | [Olist E-Commerce Analysis](https://github.com/ErSKM/olist-ecommerce-analysis) | Python · SQLite · SQL | Delivery performance, review patterns, order timing, and model evaluation |
@@ -31,8 +32,8 @@ I turn operational and transaction data into clear analysis, reporting, and busi
 - [Data Analytics Virtual Job Simulation — Deloitte Australia / Forage](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_HMHZoSDPLmktTjm6C_1761851429615_completion_certificate.pdf)
 - [Data Learning Track — Google Cloud / Hack2skill](https://certificate.hack2skill.com/user/academy2data/2025H2S10GENAI-DA300149)
 
-## Currently pursuing
+## Portfolio & contact
 
-Data Analyst, Reporting Analyst, MIS Analyst, and BI Analyst opportunities across India and the Gulf, especially in retail, e-commerce, and operations analytics.
+Explore more projects at [erskm.github.io](https://erskm.github.io), or [email me](mailto:salahuddinkm.skm@gmail.com) for professional inquiries.
 
 Based in Kerala, India · English · Malayalam · Hindi · Kannada · Arabic
